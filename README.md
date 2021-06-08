@@ -1,0 +1,1 @@
+<p>This is the documentation for the sample website in the <em>Learn Enough HTML to be Dangerous</em> tutorial.</p>
